@@ -24,3 +24,14 @@ Calcula el numero de pagos, con base en el valor actual, la cantidad de la anual
 
 8.-Calculo de la tasa de interes desde el valor actual
 Esta funcion obtiene la tasa de interes por periodo, conociendo el valor actual, la cantidad de la anualidad y el numero de pagos.
+
+##Modo de uso 
+puedes usar estas funciones en R de la siguiente manera
+
+#EJEMPLO DE USO
+anualidad = 1000
+r = 0.05
+n = 10
+#valor futuro de una anualidad vencida 
+valor_futuro = valor_futuro_anualidad(anualidad, r, n)
+print(valor_futuro)
