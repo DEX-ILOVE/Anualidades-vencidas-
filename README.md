@@ -9,5 +9,11 @@ https://raw.githubusercontent.com/DEX-ILOVE/Anualidades-vencidas-/refs/heads/mai
 ```
 A continucacion se da un ejemplo con las funciones correspondientes
 
+# VALOR FUTURO
+
+# Datos iniciales
+anualidad = 1000
+r = 0.05
+n = 10
 
 
