@@ -32,3 +32,5 @@ valor_futuro = Valor_futuro_anualidad(anualidad, r, n)
 
 print(paste("valor futuro:", valor_futuro))
 
+Y asi correspondiente con las demas funciones, se ejectua la formula y despues te arroja el resultado correspondiente con los valores dados.
+
