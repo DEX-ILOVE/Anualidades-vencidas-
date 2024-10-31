@@ -7,5 +7,7 @@ Con el siguiente link puede cargar las funciones relativas con el calculo de las
 ```{r}
 https://raw.githubusercontent.com/DEX-ILOVE/Anualidades-vencidas-/refs/heads/main/anualidades%20vencidas.R
 ```
+A continucacion se da un ejemplo con las funciones correspondientes
+
 
 
