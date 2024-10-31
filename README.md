@@ -17,6 +17,8 @@ $Anualidad$ = 1000
 $r$ = 0.05
 
 $n$ = 10
+Valor_futuro_anualidad = function(anualidad, r, n){
+  return(anualidad * (((1 + r)^n - 1) / r))
 
 # valor futuro de una anualidad vencida
 valor_futuro = Valor_futuro_anualidad(anualidad, r, n)
