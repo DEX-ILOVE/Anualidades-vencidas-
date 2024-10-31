@@ -21,10 +21,13 @@ $n$ = 10
 # CALCULAMOS CON LA FORMULA CORRESPONDIENTE
 
 Valor_futuro_anualidad = function(anualidad, r, n){
+
   return(anualidad * (((1 + r)^n - 1) / r))
+}
 
 # MOSTRAMOS EL RESULTADOS DADO
 
 valor_futuro = Valor_futuro_anualidad(anualidad, r, n)
+
 print(paste("valor futuro:", valor_futuro))
 
