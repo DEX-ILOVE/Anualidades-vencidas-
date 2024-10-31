@@ -12,8 +12,13 @@ A continucacion se da un ejemplo con las funciones correspondientes
 # VALOR FUTURO
 
 # Datos iniciales
-anualidad = 1000
-r = 0.05
-n = 10
+$Anualidad$ = 1000
 
+$r$ = 0.05
+
+$n$ = 10
+
+# valor futuro de una anualidad vencida
+valor_futuro = Valor_futuro_anualidad(anualidad, r, n)
+print(paste("valor futuro:", valor_futuro))
 
