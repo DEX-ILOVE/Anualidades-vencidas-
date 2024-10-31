@@ -5,5 +5,7 @@ En este repositorio contienen funciones para relizar calculos relacionados con a
 Con el siguiente link puede cargar las funciones relativas con el calculo de las mismas
 
 ```{r}
+https://raw.githubusercontent.com/DEX-ILOVE/Anualidades-vencidas-/refs/heads/main/anualidades%20vencidas.R
+```
 
 
